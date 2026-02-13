@@ -15,7 +15,7 @@ const bodyFont = Source_Sans_3({
 });
 
 export const metadata: Metadata = {
-  title: "Kinh Thánh: Vượt Trên Nhân Đạo Xã Hội",
+  title: "Kinh Thánh Vượt Trên Nhân Đạo Xã Hội",
   description:
     "Báo cáo nghiên cứu thần học Công giáo về sự siêu việt của Kinh Thánh và sự nguy hiểm của trào lưu giản lược hóa thông điệp nhân đạo xã hội.",
 };
